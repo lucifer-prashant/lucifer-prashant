@@ -61,15 +61,13 @@
 
 ### 🌐 Find Me At:
 <p align="center">
-  <a href="https://linkedin.com/in/prashant-verma-a2a717272" target="blank">
+  <a href="https://linkedin.com/in/prashant-verma-a2a717272" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://codolio.com/profile/z" target="blank">
+  <a href="https://codolio.com/profile/z" target="_blank">
     <img src="https://img.shields.io/badge/-Codolio-FF6347?style=for-the-badge&logo=codolio&logoColor=white&color=FF6347" alt="Codolio" />
   </a>
-  <a href="https://www.leetcode.com/prashantverma1359" target="blank">
+  <a href="https://www.leetcode.com/prashantverma1359" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
-
----
