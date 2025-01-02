@@ -61,7 +61,7 @@
 
 ### 🌐 Find Me At:
 <p align="center">
-  <a href="https://linkedin.com/in/prashant-verma-a2a717272" target="_blank">
+  <a href="https://linkedin.com/in/prashant-verma-a2a717272" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://codolio.com/profile/z" target="_blank">
